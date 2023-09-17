@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactNative** & **Typescript**
 
-- 🤝 Let's connect on [LinkedIn](https://[www.https://www.linkedin.com/in/jaddesuarez/)
+- 🤝 Let's connect on [LinkedIn](https://www.https://www.linkedin.com/in/jaddesuarez/)
 
 - 🌐 I speak **Portuguese**, **English** & **Spanish**
 
