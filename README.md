@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working @Compas3 & Personal Pryects
+- 🔭 I’m currently working @Compas3 & Personal Proyects
 
 - 💕 I'm passionate about **Growth**, **Technology** & **Travel**
 
