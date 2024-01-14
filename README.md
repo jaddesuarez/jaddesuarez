@@ -8,7 +8,7 @@
 
 - 💕 I'm passionate about **Growth**, **Technology** & **Travel**
 
-- 🌱 I’m currently learning **ReactNative** & **Typescript**
+- 🌱 I’m currently learning **ReactNative** & **Rust**
 
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/jaddesuarez/)
 
