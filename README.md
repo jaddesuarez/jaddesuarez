@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQELVew9TuK8HQ/profile-displaybackgroundimage-shrink_350_1400/0/1671536227058?e=1700697600&v=beta&t=AhnSe327Ii6Yc5cYbfQNJC_LH4Y40R0B1JnDm5ullTg)
+![MasterHead](https://res.cloudinary.com/dp0abawuh/image/upload/v1705267749/w3zmrug5frhtlpmfnmkv.png)
 
 <h1 align="center">Hi 👋, I'm Jadde</h1>
 <h3 align="center">Full Stack Developer</h3>
