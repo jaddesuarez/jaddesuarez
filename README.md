@@ -1,8 +1,9 @@
 ![MasterHead](https://res.cloudinary.com/dp0abawuh/image/upload/v1705267749/w3zmrug5frhtlpmfnmkv.png)
 
-<h1 align="center">Hi 👋, I'm Jadde</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Why, hello there 👋, I'm Jadde</h1>
+<h3 align="center">A Full Stack Developer!</h3>
 
+<p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaddesuarez&show_icons=true&locale=en&layout=compact" alt="jaddesuarez" /></p>
 
 - 🔭 I’m currently working @ Compas3 & Personal Projects
 
