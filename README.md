@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dp0abawuh/image/upload/v1705267749/w3zmrug5frhtlpmfnmkv.png)
+![MasterHead](https://res.cloudinary.com/dp0abawuh/image/upload/v1710112597/wecookin/khqsyc6zs2uqv0q1gouv.png)
 
 <h1 align="center">Why, hello there 👋, I'm Jadde Suarez</h1>
 <h3 align="center">A Full Stack Developer!</h3>
@@ -16,6 +16,8 @@
 - 🌐 I speak **Portuguese**, **English** & **Spanish**
 
 - 📫 Reach me at **jaddesuarez@gmail.com**
+
+[![Profile badge](https://www.codewars.com/users/jaddesuarez/badges/large)](https://www.codewars.com/users/jaddesuarez)
 
 <h3 align="center">Skills:</h3>
 <p align="center">
