@@ -3,7 +3,7 @@
 <h1 align="center">Why, hello there 👋, I'm Jadde Suarez</h1>
 <h3 align="center">A Full Stack Developer!</h3>
 
-<p align="right"><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaddesuarez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=jaddesuarez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 - 🔭 I’m currently working @ Compas3 & Personal Projects
 
