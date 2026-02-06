@@ -5,7 +5,7 @@
 
 <p><br><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaddesuarez&theme=dark&show_icons=true&locale=en&layout=compact" alt="jaddesuarez" /></p>
 
-- 🔭 I’m currently working @ Compas3 & Personal Projects
+- 🔭 I’m currently working @ Dcycle & Personal Projects
 
 - 💕 I'm passionate about **Growth**, **Technology** & **Travel**
 
